@@ -1,3 +1,6 @@
+![](ecommerce.gif)
+
+
 # E-Ticaret 
 Veri tabanında verileri alıp ekrana yansıtan ve temel sepete işlevine sahip olan e-ticaret projesi
 
