@@ -31,4 +31,4 @@ Veri tabanında verileri alıp ekrana yansıtan ve temel sepete işlevine sahip 
 - - ürün sepetten kaldırılınca toplam fiyattan eksilt#
 
 # E-Commerce-Website-2
-![](ecommerce (2).gif)
+![](ecommerce(2).gif)
