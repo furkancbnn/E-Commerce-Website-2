@@ -28,4 +28,7 @@ Veri tabanında verileri alıp ekrana yansıtan ve temel sepete işlevine sahip 
 - - - - sepet açıldığı anda dizindeki ürünleri ekrana bas
 - - - - - sepetteki ürünleri ekrana basarken fiyat değerlerini topla ve bir değişkene aktar
 - - bu işlemi yaparken elemanın miktarını unutma 
-- - ürün sepetten kaldırılınca toplam fiyattan eksilt# E-Commerce-Website-2
+- - ürün sepetten kaldırılınca toplam fiyattan eksilt#
+
+# E-Commerce-Website-2 
+![](ecommerce (2).gif)
