@@ -33,4 +33,5 @@ Veri tabanında verileri alıp ekrana yansıtan ve temel sepete işlevine sahip 
 - - bu işlemi yaparken elemanın miktarını unutma 
 - - ürün sepetten kaldırılınca toplam fiyattan eksilt#
 
-![](ecommerce(2).gif)
+![](ecommerce.(2).gif)
+
